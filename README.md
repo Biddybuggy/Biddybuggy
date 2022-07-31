@@ -1,1 +1,1 @@
-This is a simple Python to-do list code. You have to save your tasks manually, and the tasks that have been saved in the .json file will disappear if you save another group of tasks for some reason. I will try my best to solve that issue.
+This is a Python to-do list code. You have to save your tasks manually, and the tasks that have been saved in the .json file will disappear if you save another group of tasks for some reason. I will try my best to solve that issue.
